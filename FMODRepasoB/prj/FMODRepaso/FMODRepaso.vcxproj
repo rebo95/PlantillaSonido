@@ -155,11 +155,9 @@
   <ItemGroup>
     <ClCompile Include="..\..\src\FuncionesRepaso.cpp" />
     <ClCompile Include="..\..\src\main.cpp" />
-    <ClCompile Include="..\..\src\MyFMODSystem.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\src\FuncionesRepaso.h" />
-    <ClInclude Include="..\..\src\MyFMODSystem.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
